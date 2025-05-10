@@ -1,0 +1,15 @@
+# Exclude Files folder
+# But have to later force an add with git add -f SFRoamer/Files/OSMLand.db 
+SFRoamer/Files/*
+
+# General exclusions 
+status.txt
+.vs/
+SFRoamer/scripts/_old
+*.exe
+SFRoamer/x64/
+x64/
+Debug/
+Release/
+Notes for SFRoamer.txt
+proj.db
